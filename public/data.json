@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "smile": ":)",
+    "title": "Smile"
+  },
+  {
+    "id": 2,
+    "smile": ":(",
+    "title": "Sad"
+  },
+  {
+    "id": 3,
+    "smile": "O:)",
+    "title": "Angel"
+  }
+]
